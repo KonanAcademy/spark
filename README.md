@@ -1,9 +1,18 @@
-# spark
+# Spark를 이용한 데이터 분석 기초
+
 Spark + ML
+
+필수사항
+* 파이썬 기초문법 알고 있을 것(능숙할 필요는 없습니다. 혹은 하면서 익혀도 됩니다)
+
+권장사항
+* 스칼라 기초문법(스칼라를 아는 분들은, 실습코드를 스칼라로 변환해서 발표하실 수 있습니다)
 
 교재 & 강의
 * (Spark 기초) Introduction to Big Data with Apache Spark - https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/fbe63aa3c95948e3912fa128aedec27d/
 * (Spark ML) Scalable Machine Learning - https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/fbe63aa3c95948e3912fa128aedec27d/
+
+
 
 
 # 파트 1 -Spark 기초  

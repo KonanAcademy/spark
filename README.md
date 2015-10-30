@@ -22,12 +22,13 @@ Spark + ML
 # 파트 1 -Spark 기초  
 | 회차 | 날짜  | 제목                                                       | 발표자 |  발표자료      |
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |
-|  1   |       | Introduction to Big Data and Data Science                  |        |                |
-|      |       | Performing Data Science and Preparing Data                 |        |                |
+|  1   |       | Introduction to Big Data and Data Science                  | 김무성 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec1.pdf)  |
+|      |       | Performing Data Science and Preparing Data                 | 김무성      |  [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec2.pdf)              |
 |      |       | Setting up the Course Software Environment                 |        |                |
 |  2   |       | Big Data, Hardware Trends, and the History of Apache Spark |        |                |
 |      |       | Spark Essentials                                           |        |                |
-|      |       | Lab 1: Learning Apache Spark                               |        |                |
+|      |       | Lab 1: Learning Apache Spark                               |        |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb).  |
+|      |       |                                |        |   Lab 1 Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb)  |
 |  3   |       | Semi-Structured Data                                       |        |                |
 |      |       | Structured Data                                            |        |                |
 |      |       | Lab 2: Web Server Log Analysis with Apache Spark           |        |                |

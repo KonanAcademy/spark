@@ -24,7 +24,7 @@ Spark + ML
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |
 |  1   |   10/30    | Introduction to Big Data and Data Science                  | 김무성 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec1.pdf)  |
 |      |       | Performing Data Science and Preparing Data                 | 김무성      |  [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec2.pdf)              |
-|      |       | Setting up the Course Software Environment                 |        |   [발표자료](https://github.com/KonanAcademy/spark/blob/master/part1/week1/setup.md)             |
+|      |       | Setting up the Course Software Environment                 |  김무성      |   [발표자료](https://github.com/KonanAcademy/spark/blob/master/part1/week1/setup.md)             |
 |  2   |       | Big Data, Hardware Trends, and the History of Apache Spark |        |                |
 |      |       | Spark Essentials                                           |        |                |
 |      |       | Lab 1: Learning Apache Spark                               |        |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb).  |

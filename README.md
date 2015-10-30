@@ -19,7 +19,7 @@ Spark + ML
 
 
 
-# 파트 1 -Spark 기초  
+# 파트 1 - Spark 기초  
 | 회차 | 날짜  | 제목                                                       | 발표자 |  발표자료      |
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |
 |  1   |   10/30    | Introduction to Big Data and Data Science                  | 김무성 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec1.pdf)  |
@@ -38,7 +38,7 @@ Spark + ML
 |      |       | Lab 3: Text Analysis and Entity Resolution                 |        |                |
 |  5   |       | Lab 4: Introduction to Machine Learning with Apache Spark  |        |                |
 
-# 파트 2 -Spark ML
+# 파트 2 - Spark ML
 
 | 회차 | 날짜  | 제목                                                       | 발표자 |  발표자료      |
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |

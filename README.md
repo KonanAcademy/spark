@@ -28,7 +28,7 @@ Spark + ML
 |  2   |       | Big Data, Hardware Trends, and the History of Apache Spark |        |                |
 |      |       | Spark Essentials                                           |        |                |
 |      |       | Lab 1: Learning Apache Spark                               |        |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb).  |
-|      |       |                                |        |   Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb)  |
+|      |       |                                |        |  Lab 1 Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb)  |
 |  3   |       | Semi-Structured Data                                       |        |                |
 |      |       | Structured Data                                            |        |                |
 |      |       | Lab 2: Web Server Log Analysis with Apache Spark           |        |                |

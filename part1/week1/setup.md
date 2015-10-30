@@ -1,4 +1,7 @@
+SparkML 실습 환경 구축 
 
+# docker 참고자료 
+* https://github.com/KonanAcademy/helloworld/blob/master/2015/07/docker.md
 
 # docker 환경 셋팅
 * centos 7에 docker 설정 - https://docs.docker.com/installation/centos/

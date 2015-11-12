@@ -25,10 +25,10 @@ Spark + ML
 |  1   |   10/30    | Introduction to Big Data and Data Science                  | 김무성 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec1.pdf)  |
 |      |       | Performing Data Science and Preparing Data                 | 김무성      |  [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec2.pdf)              |
 |      |       | Setting up the Course Software Environment                 |  김무성      |   [발표자료](https://github.com/KonanAcademy/spark/blob/master/part1/week1/setup.md)             |
-|  2   |       | Big Data, Hardware Trends, and the History of Apache Spark |        |                |
-|      |       | Spark Essentials                                           |        |                |
-|      |       | Lab 1: Learning Apache Spark                               |        |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb).  |
-|      |       |                                |        |  Lab 1 Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb)  |
+|  2   |       | Big Data, Hardware Trends, and the History of Apache Spark | 오창민       | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week2Lec3.pdf)               |
+|      |       | Spark Essentials                                           | 오창민       | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week2Lec4.pdf)               |
+|      |       | Lab 1: Learning Apache Spark                               | 오창민       |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb).  |
+|      |       |                                | 오창민       |  Lab 1 Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb)  |
 |  3   |       | Semi-Structured Data                                       |        |                |
 |      |       | Structured Data                                            |        |                |
 |      |       | Lab 2: Web Server Log Analysis with Apache Spark           |        |                |

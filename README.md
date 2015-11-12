@@ -22,21 +22,21 @@ Spark + ML
 # 파트 1 - Spark 기초  
 | 회차 | 날짜  | 제목                                                       | 발표자 |  발표자료      |
 |------| ----- |:----------------------------------------------------------:| ------:|:-------------: |
-|  1   |   10/30    | Introduction to Big Data and Data Science                  | 김무성 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec1.pdf)  |
+|  1   |   10/30  | Introduction to Big Data and Data Science                  | 김무성 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec1.pdf)  |
 |      |       | Performing Data Science and Preparing Data                 | 김무성      |  [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week1Lec2.pdf)              |
 |      |       | Setting up the Course Software Environment                 |  김무성      |   [발표자료](https://github.com/KonanAcademy/spark/blob/master/part1/week1/setup.md)             |
-|  2   |       | Big Data, Hardware Trends, and the History of Apache Spark | 오창민       | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week2Lec3.pdf)               |
+|  2   |  11/12   | Big Data, Hardware Trends, and the History of Apache Spark | 오창민       | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week2Lec3.pdf)               |
 |      |       | Spark Essentials                                           | 오창민       | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week2Lec4.pdf)               |
-|      |       | Lab 1: Learning Apache Spark                               | 오창민       |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb).  |
-|      |       |                                | 오창민       |  Lab 1 Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb)  |
-|  3   |       | Semi-Structured Data                                       |        |                |
-|      |       | Structured Data                                            |        |                |
-|      |       | Lab 2: Web Server Log Analysis with Apache Spark           |        |                |
-|  4   |       | Data Quality                                               |        |                |
-|      |       | Exploratory Data Analysis                                  |        |                |
-|      |       | Machine Learning                                           |        |                |
-|      |       | Lab 3: Text Analysis and Entity Resolution                 |        |                |
-|  5   |       | Lab 4: Introduction to Machine Learning with Apache Spark  |        |                |
+|  3   |  11/19   | Lab 1: Learning Apache Spark                               | 유주원       |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb).  |
+|      |       |                                | 유주원       |  Lab 1 Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb)  |
+|  4   |       | Semi-Structured Data                                       | 안동환 |                |
+|      |       | Structured Data                                            | 안동환 |                |
+|      |       | Lab 2: Web Server Log Analysis with Apache Spark           | 김무성 |                |
+|  5   |       | Data Quality                                               | 윤병희 |                |
+|      |       | Exploratory Data Analysis                                  | 윤병희 |                |
+|      |       | Machine Learning                                           | 김무성 |                |
+|      |       | Lab 3: Text Analysis and Entity Resolution                 | 김무성 |                |
+|  6   |       | Lab 4: Introduction to Machine Learning with Apache Spark  | 오창민 |                |
 
 # 파트 2 - Spark ML
 

@@ -29,8 +29,8 @@ Spark + ML
 |      |       | Spark Essentials                                           | 오창민       | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week2Lec4.pdf)               |
 |  3   |  11/19   | Lab 1: Learning Apache Spark                               | 유주원       |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb). [발표자료](http://nbviewer.ipython.org/github/KonanAcademy/spark/blob/master/part1/week3/Learning_Apache_Spark.ipynb)  |
 |  4   |  11/26   |                                                            | 유주원       |  Lab 1 Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb). [발표자료](http://nbviewer.ipython.org/github/KonanAcademy/spark/blob/master/part1/week4/Building_a_word_count_application.ipynb)  |
-|  5   |  12/3  | Semi-Structured Data                                       | 안동환 |                |
-|      |       | Structured Data                                            | 안동환 |                |
+|  5   |  12/3  | Semi-Structured Data                                       | 안동환 |  [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week3Lec5.pdf)  |
+|      |       | Structured Data                                            | 안동환 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week3Lec6.pdf)   |
 |  6   |       | Lab 2: Web Server Log Analysis with Apache Spark           | 김무성 |                |
 |      |       | Data Quality                                               | 윤병희 |                |
 |  7   |       | Exploratory Data Analysis                                  | 윤병희 |                |

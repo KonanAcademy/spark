@@ -29,14 +29,14 @@ Spark + ML
 |      |       | Spark Essentials                                           | 오창민       | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week2Lec4.pdf)               |
 |  3   |  11/19   | Lab 1: Learning Apache Spark                               | 유주원       |   Spark Tutorial :  [notebook]( https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/spark_tutorial_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/spark_tutorial_student.ipynb).  |
 |  4   |  11/26   |                                                            | 유주원       |  Lab 1 Word Count : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab1_word_count_student.ipynb). [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab1_word_count_student.ipynb)  |
-|      |       | Semi-Structured Data                                       | 안동환 |                |
-|  5   |       | Structured Data                                            | 안동환 |                |
-|      |       | Lab 2: Web Server Log Analysis with Apache Spark           | 김무성 |                |
-|  6   |       | Data Quality                                               | 윤병희 |                |
-|      |       | Exploratory Data Analysis                                  | 윤병희 |                |
-|  7   |       | Machine Learning                                           | 김무성 |                |
-|      |       | Lab 3: Text Analysis and Entity Resolution                 | 김무성 |                |
-|  8   |       | Lab 4: Introduction to Machine Learning with Apache Spark  | 오창민 |                |
+|  5   |  12/3  | Semi-Structured Data                                       | 안동환 |                |
+|      |       | Structured Data                                            | 안동환 |                |
+|  6   |       | Lab 2: Web Server Log Analysis with Apache Spark           | 김무성 |                |
+|      |       | Data Quality                                               | 윤병희 |                |
+|  7   |       | Exploratory Data Analysis                                  | 윤병희 |                |
+|      |       | Machine Learning                                           | 김무성 |                |
+|  8   |       | Lab 3: Text Analysis and Entity Resolution                 | 김무성 |                |
+|      |       | Lab 4: Introduction to Machine Learning with Apache Spark  | 오창민 |                |
 
 # 파트 2 - Spark ML
 

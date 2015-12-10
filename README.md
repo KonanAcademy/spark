@@ -16,7 +16,8 @@ Spark + ML
 * (Spark 기초) Introduction to Big Data with Apache Spark - https://courses.edx.org/courses/BerkeleyX/CS100.1x/1T2015/fbe63aa3c95948e3912fa128aedec27d/
 * (Spark ML) Scalable Machine Learning - https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/fbe63aa3c95948e3912fa128aedec27d/
 
-
+* test_helper 클래스 정보 - http://au9ustine.github.io/wiki/data/spark/cs100_lab0.html
+* vagrant 환경없이 강좌를 따라갈 때의 정보 - http://au9ustine.github.io/wiki/data/spark/cs100_lab0.html
 
 
 # 파트 1 - Spark 기초  

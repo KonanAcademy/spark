@@ -35,7 +35,7 @@ Spark + ML
 |  6   |       | Lab 2: Web Server Log Analysis with Apache Spark           | 김무성 |    Lab 2 Web Log : [notebook](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab2_apache_log_student.ipynb), [online](http://nbviewer.ipython.org/github/spark-mooc/mooc-setup/blob/master/lab2_apache_log_student.ipynb)            |
 |      |       | Data Quality                                               | 윤병희 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week4Lec7.pdf)               |
 |  7   |       | Exploratory Data Analysis                                  | 윤병희 |   [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week4Lec8.pdf)             |
-|      |       | Machine Learning                                           | 김무성 |                |
+|      |       | Machine Learning                                           | 김무성 |   강의자료 : [online](http://nbviewer.jupyter.org/github/spark-mooc/mooc-setup/blob/master/lab4_machine_learning_student.ipynb)             |
 |  8   |       | Lab 3: Text Analysis and Entity Resolution                 | 김무성 |                |
 |      |       | Lab 4: Introduction to Machine Learning with Apache Spark  | 오창민 |                |
 

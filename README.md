@@ -36,7 +36,7 @@ Spark + ML
 |      |       | Data Quality                                               | 윤병희 | [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week4Lec7.pdf)               |
 |  7   |       | Exploratory Data Analysis                                  | 윤병희 |   [강의자료](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week4Lec8.pdf)             |
 |      |  2016.1/21     | Machine Learning                                           | 김무성 |   [강의자료-중간부터](https://courses.edx.org/c4x/BerkeleyX/CS100.1x/asset/Week4Lec8.pdf),  [online](http://nbviewer.jupyter.org/github/spark-mooc/mooc-setup/blob/master/lab4_machine_learning_student.ipynb)             |
-|  8   |       | Lab 3: Text Analysis and Entity Resolution                 | 김무성 |                |
+|  8   |       | Lab 3: Text Analysis and Entity Resolution                 | 김무성 | [note](https://raw.githubusercontent.com/spark-mooc/mooc-setup/master/lab3_text_analysis_and_entity_resolution_student.ipynb)               |
 |      |       | Lab 4: Introduction to Machine Learning with Apache Spark  | 오창민 |                |
 
 # 파트 2 - Spark ML
